@@ -13,6 +13,7 @@ import {
   StuffUser,
 } from "@/svg";
 
+// sidebar menu items on the dashboard of admin page
 const sidebar_menu: Array<ISidebarMenus> = [
   {
     id: 1,
