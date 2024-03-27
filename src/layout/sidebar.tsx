@@ -48,7 +48,7 @@ export default function Sidebar({ sideMenu, setSideMenu }: IProps) {
                 href="/dashboard"
                 className="flex justify-center text-2xl mt-3"
               >
-                Vakker Admin
+                CS5610 E-commerce Admin
               </Link>
             </div>
             <div className="px-4 py-5">

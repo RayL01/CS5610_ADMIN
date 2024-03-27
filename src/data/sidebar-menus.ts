@@ -62,20 +62,15 @@ const sidebar_menu: Array<ISidebarMenus> = [
     link: "/profile",
     title: "Profile",
   },
+
   {
     id: 8,
-    icon: Setting,
-    link: "#",
-    title: "Online store",
-  },
-  {
-    id: 9,
     icon: StuffUser,
     link: "/our-staff",
     title: "Our Staff",
   },
   {
-    id: 10,
+    id: 9,
     icon: Pages,
     link: "/dashboard",
     title: "Pages",
